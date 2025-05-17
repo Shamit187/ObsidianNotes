@@ -11,10 +11,14 @@
             "id": "12099ecaaa3d7540",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Inversion.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Inversion"
             }
           }
         ]
@@ -164,8 +168,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2c05d330ddc9a982",
+  "active": "12099ecaaa3d7540",
   "lastOpenFiles": [
+    "Pasted image 20250517111515.png",
+    "Pasted image 20250517111111.png",
+    "Mobius Transformation.md",
+    "Inversion.md",
     "Welcome.md"
   ]
 }

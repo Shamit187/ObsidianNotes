@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "552f30261c1353a9",
+        "id": "eebb201d64f88534",
         "type": "tabs",
         "children": [
           {
-            "id": "b5987b81c379f241",
+            "id": "19a0a2af210aa37b",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -161,10 +161,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b5987b81c379f241",
+  "active": "19a0a2af210aa37b",
   "lastOpenFiles": [
-    "KeyTerms/Value Function.md",
-    "KeyTerms/Policy.md",
+    "Algorithms/Monte Carlo Method.md",
     "KeyEquation/Bellman Equation.md",
     "Images/Pasted image 20250517013024.png",
     "Images",
@@ -172,10 +171,11 @@
     "KeyEquation",
     "Algorithms",
     "Definitions",
+    "KeyTerms/Value Function.md",
     "Images/Pasted image 20250517071125.png",
     "KeyTerms/Markov Property.md",
     "Definitions/Markov Decision Process.md",
-    "Algorithms/Monte Carlo Method.md",
+    "KeyTerms/Policy.md",
     "Definitions/Reward Hypothesis.md",
     "Definitions/Agent-Environment Interaction.md",
     "Definitions/Continuing Task.md",
