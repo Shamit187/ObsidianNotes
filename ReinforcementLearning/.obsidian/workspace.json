@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KeyEquation/Bellman Equation.md",
+                "file": "KeyTerms/Value Function.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bellman Equation"
+              "title": "Value Function"
             }
           }
         ]
@@ -167,19 +167,19 @@
   },
   "active": "d656524f8e390605",
   "lastOpenFiles": [
+    "KeyTerms/Policy.md",
+    "KeyTerms/Value Function.md",
+    "KeyEquation/Bellman Equation.md",
     "Images/Pasted image 20250517013024.png",
     "Images",
     "KeyTerms",
     "KeyEquation",
     "Algorithms",
     "Definitions",
-    "KeyTerms/Value Function.md",
-    "KeyEquation/Bellman Equation.md",
     "Images/Pasted image 20250517071125.png",
     "KeyTerms/Markov Property.md",
     "Definitions/Markov Decision Process.md",
     "Algorithms/Monte Carlo Method.md",
-    "KeyTerms/Policy.md",
     "Definitions/Reward Hypothesis.md",
     "Definitions/Agent-Environment Interaction.md",
     "Definitions/Continuing Task.md",

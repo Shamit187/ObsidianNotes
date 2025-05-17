@@ -18,6 +18,11 @@ q_\pi (s) &= \mathbb{E}[G_t | S_t = s , A_t = a] \\
 \end{align}
 $$
 
+Connection between v and q
+$$
+v_\pi(s) = \sum_a \pi(a|s) q_\pi(s, a)
+$$
+
 Value functions remain recursive
 $$
 \begin{align}
