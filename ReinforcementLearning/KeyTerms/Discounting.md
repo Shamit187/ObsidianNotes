@@ -1,0 +1,1 @@
+Value current reward more than future ones

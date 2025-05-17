@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "3bd07a607b564f1b",
+        "id": "f019d407abb78396",
         "type": "tabs",
         "children": [
           {
-            "id": "da11aadd9578c578",
+            "id": "d656524f8e390605",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gittins Index.md",
+                "file": "KeyEquation/Bellman Equation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Gittins Index"
+              "title": "Bellman Equation"
             }
           }
         ]
@@ -165,12 +165,31 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "da11aadd9578c578",
+  "active": "d656524f8e390605",
   "lastOpenFiles": [
-    "Gittins Index.md",
+    "Images/Pasted image 20250517013024.png",
+    "Images",
+    "KeyTerms",
+    "KeyEquation",
+    "Algorithms",
+    "Definitions",
+    "KeyTerms/Value Function.md",
+    "KeyEquation/Bellman Equation.md",
+    "Images/Pasted image 20250517071125.png",
+    "KeyTerms/Markov Property.md",
+    "Definitions/Markov Decision Process.md",
+    "Algorithms/Monte Carlo Method.md",
+    "KeyTerms/Policy.md",
+    "Definitions/Reward Hypothesis.md",
+    "Definitions/Agent-Environment Interaction.md",
+    "Definitions/Continuing Task.md",
+    "Definitions/Episodic Task.md",
+    "KeyTerms/Expected Return.md",
+    "KeyTerms/Discounting.md",
+    "KeyTerms/Gittins Index.md",
+    "Pasted image 20250517003633.png",
     "2025-05-16.md",
     "create a link.md",
-    "Welcome.md",
-    "Untitled"
+    "Welcome.md"
   ]
 }
