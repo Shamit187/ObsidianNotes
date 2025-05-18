@@ -8,31 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1b2abbc8eca0ed50",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "352feb0ad9943457",
+            "id": "11870c23f97cd595",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Why Sampling from P(x) is Hard.md",
+                "file": "Importance Sampling.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Why Sampling from P(x) is Hard"
+              "title": "Importance Sampling"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -179,11 +168,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "352feb0ad9943457",
+  "active": "11870c23f97cd595",
   "lastOpenFiles": [
     "Why Sampling from P(x) is Hard.md",
-    "Monte Carlo Method Dimension Invariance.md",
     "Monte Carlo Method.md",
+    "Importance Sampling.md",
+    "Pasted image 20250518125028.png",
+    "Monte Carlo Method Dimension Invariance.md",
     "Welcome.md"
   ]
 }

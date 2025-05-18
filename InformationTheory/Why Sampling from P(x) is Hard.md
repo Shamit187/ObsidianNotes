@@ -13,3 +13,6 @@ and if the possible state is large, it is impossible to iterate through all the 
 
 we can discretize stuff, but then we have to normalize, to normalize we have to iterate through all state
 
+Few Sampling Method that can solve the issue
+- [[Importance Sampling]] , only for estimating $\phi(x)$ \[Problem 2 in [[Monte Carlo Method]]\]
+- [[Monte Carlo Method]]
