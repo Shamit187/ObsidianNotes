@@ -1,7 +1,7 @@
 Only works if we want to calculate expected value of $\phi(x)$
 
 Instead of sampling from P(x)
-Sample from Q(x)
+Sample from Q(x), either uniform or Gaussian using [[Box Muller Method]]
 
 ![[Pasted image 20250518125028.png]]
 
@@ -14,6 +14,11 @@ for every sample point, we can generate $w_r=\frac{P(x)}{Q(x)}$
 
 So to approximate
 $$
-\langle\phi\rangle = \frac{\sum_r w_r \phi(x_r)}{\sum_r w_r}
+\bar\phi = \frac{\sum_r w_r \phi(x_r)}{\sum_r w_r}
 $$
 
+We can show that 
+$$
+\bar\phi = \langle \phi \rangle
+$$
+but we cannot calculate variance of $\phi$
