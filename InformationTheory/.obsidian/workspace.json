@@ -8,30 +8,49 @@
         "type": "tabs",
         "children": [
           {
-            "id": "11870c23f97cd595",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
             "id": "520ffcaa29a208f6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Stable Distribution.md",
+                "file": "Importance Sampling.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Stable Distribution"
+              "title": "Importance Sampling"
+            }
+          },
+          {
+            "id": "1d92f450a038df6a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rejection Sampling.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Rejection Sampling"
+            }
+          },
+          {
+            "id": "6e9d8773db530993",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Metropolis-Hasting sampling.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Metropolis-Hasting sampling"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -178,11 +197,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "11870c23f97cd595",
+  "active": "6e9d8773db530993",
   "lastOpenFiles": [
+    "Rejection Sampling.md",
+    "Metropolis-Hasting sampling.md",
+    "Pasted image 20250519084645.png",
+    "Pasted image 20250519084306.png",
+    "Pasted image 20250519084408.png",
+    "Importance Sampling.md",
+    "Pasted image 20250519023746.png",
     "Cauchy Distribution.md",
     "Stable Distribution.md",
-    "Importance Sampling.md",
     "Pasted image 20250519013636.png",
     "Pasted image 20250519013525.png",
     "Pasted image 20250519013445.png",

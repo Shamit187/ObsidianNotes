@@ -24,3 +24,5 @@ $$
 $$
 Which means, if you sample a lot of numbers, it keeps diverging!
 if we cannot calculate mean, we also cannot calculate variance
+
+It is long tail distribution, means, we can always get very large values!

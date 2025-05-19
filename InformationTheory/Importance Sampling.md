@@ -22,3 +22,11 @@ $$
 \bar\phi = \langle \phi \rangle
 $$
 but we cannot calculate variance of $\phi$
+### Cautionary
+It is better to use long tail distribution like [[Cauchy Distribution]] which will likely avoid horrible under weighting
+
+![[Pasted image 20250519023746.png]]
+
+### High Dimension Problem
+In high dimension, importance sampling is really bad!
+some points will dominate and through the entire mean off
