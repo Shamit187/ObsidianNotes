@@ -10,3 +10,4 @@ Each signal <- evidence on the correctness
 Generate a prob distribution
 - random variables capture uncertainty over records in the dataset
 - signal -> graphical model -> distribution characterization
+
