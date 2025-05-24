@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Denial Constraints.md",
+                "file": "Problem Statement in HoloClean.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Denial Constraints"
+              "title": "Problem Statement in HoloClean"
             }
           }
         ],
@@ -240,12 +240,12 @@
   },
   "active": "026c561ae19e0383",
   "lastOpenFiles": [
+    "Probability Model for HoloClean.md",
     "HoloClean Compilation.md",
+    "HoloClean.md",
     "Denial Constraints.md",
     "Problem Statement in HoloClean.md",
-    "HoloClean.md",
     "Holistic Data.md",
-    "Probability Model for HoloClean.md",
     "Data Cleaning.md",
     "Untitled.md",
     "HoloClean/Untitled.canvas",
