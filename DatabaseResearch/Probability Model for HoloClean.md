@@ -1,3 +1,0 @@
-###  Requirement
-1. Grounding / Consider all the interaction between different random var to generate a joint distribution...
-2. Inference / Calculate marginal probability of each tuple/random var

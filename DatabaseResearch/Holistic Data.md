@@ -1,1 +1,0 @@
-the practice of looking at data in its entirety, rather than just focusing on individual pieces of information
