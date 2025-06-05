@@ -4,53 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "4a2dd6d852d5a778",
+        "id": "a1f4553b22affd43",
         "type": "tabs",
         "children": [
           {
-            "id": "520ffcaa29a208f6",
+            "id": "cf81cafda3062764",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Importance Sampling.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Importance Sampling"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           },
           {
-            "id": "1d92f450a038df6a",
+            "id": "da2c4b97c8a993b3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rejection Sampling.md",
+                "file": "Laplace Approximation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Rejection Sampling"
-            }
-          },
-          {
-            "id": "6e9d8773db530993",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Metropolis-Hasting sampling.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Metropolis-Hasting sampling"
+              "title": "Laplace Approximation"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -197,21 +179,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6e9d8773db530993",
+  "active": "da2c4b97c8a993b3",
   "lastOpenFiles": [
+    "Laplace Approximation.md",
+    "Importance Sampling.md",
     "Rejection Sampling.md",
     "Metropolis-Hasting sampling.md",
+    "Cauchy Distribution.md",
+    "Box Muller Method.md",
     "Pasted image 20250519084645.png",
     "Pasted image 20250519084306.png",
     "Pasted image 20250519084408.png",
-    "Importance Sampling.md",
     "Pasted image 20250519023746.png",
-    "Cauchy Distribution.md",
     "Stable Distribution.md",
     "Pasted image 20250519013636.png",
     "Pasted image 20250519013525.png",
     "Pasted image 20250519013445.png",
-    "Box Muller Method.md",
     "Why Sampling from P(x) is Hard.md",
     "Monte Carlo Method.md",
     "Pasted image 20250518125028.png",

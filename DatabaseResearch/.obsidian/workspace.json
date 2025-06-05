@@ -69,7 +69,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Automatic EDA.md",
+                "file": "EDA/Automatic EDA.md",
                 "mode": "source",
                 "source": false
               },
@@ -238,10 +238,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "63451355c47060a4",
+  "active": "0db24dd7ff7a1220",
   "lastOpenFiles": [
-    "EDA.md",
-    "Automatic EDA.md",
+    "EDA/EDA.md",
+    "EDA/Automatic EDA.md",
+    "Untitled.canvas",
+    "EDA",
     "Problem Statement in HoloClean.md",
     "Data Cleaning.md",
     "Probability Model for HoloClean.md",
