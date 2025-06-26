@@ -1,0 +1,1 @@
+Errors that are inherent to the process that produces the data.

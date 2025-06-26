@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "f4f8c41a74994858",
+        "id": "c624b12193cd5dff",
         "type": "tabs",
         "children": [
           {
-            "id": "089a84f31b7c566a",
+            "id": "dbff8d76d3637366",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -160,15 +160,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "79760443d6809bc0",
+  "active": "dbff8d76d3637366",
   "lastOpenFiles": [
-    "Researchers/Anna Fariha.md",
     "Researchers/Alexandra Meliou.md",
+    "Untitled.canvas",
+    "Papers/Data X-Ray.md",
+    "Definitions-Terms/Systematic Error in Database.md",
+    "Definitions-Terms",
+    "Researchers/Xin Luna Dong.md",
+    "Researchers/Xiaolan Wang.md",
+    "Papers",
+    "Researchers",
+    "Researchers/Anna Fariha.md",
     "Researchers",
     "EDA/EDA.md",
     "EDA/Automatic EDA.md",
     "Example-Driven Query Intent Discovery",
-    "Untitled.canvas",
     "EDA",
     "Problem Statement in HoloClean.md",
     "Data Cleaning.md",
