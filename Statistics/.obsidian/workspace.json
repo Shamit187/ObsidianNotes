@@ -13,31 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
+                "file": "Lebesgue Measure.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Welcome"
+              "title": "Lebesgue Measure"
             }
-          }
-        ]
-      },
-      {
-        "id": "615825da18a0fc3a",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "a0a2a9d54dc2bbb5",
+            "id": "6f7f2d5003c220ef",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Measure.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Measure"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -184,8 +183,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5af341e1b4cd3c30",
+  "active": "6f7f2d5003c220ef",
   "lastOpenFiles": [
+    "Lebesgue Measure.md",
+    "Measure.md",
+    "Counting Measure.md",
     "Welcome.md"
   ]
 }
