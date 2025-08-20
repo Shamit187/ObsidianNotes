@@ -1,1 +1,0 @@
-[[Policy]] for Monte Carlo method -> average over all the rewards for each state, action tuple

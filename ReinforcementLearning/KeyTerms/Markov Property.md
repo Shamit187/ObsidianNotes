@@ -1,1 +1,0 @@
-The future evolution only depends on the current state and not past
